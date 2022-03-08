@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c282fae3e48b9c549a5eb0defba2d026, type: 3}
+  m_Name: new Projectile 1
+  m_EditorClassIdentifier: 
+  instant: 0
+  chargeMax: 40
+  level: 1
+  multiplier: 1
+  Name: quick
+  Description: 
+  ComponentParameters: 020000000200000004000000
+  ComponentParameters2: 08000000
+  ComponentParameters3: 
+  ComponentParameters4: 
+  ComponentParameters5: 
+  ComponentParameters6: 
+  ComponentParameters7: 
+  ComponentParameters8: 
+  ComponentParameters9: 
+  effectors:
+  - {fileID: 4527760327753753583, guid: 74473a21a764dc24f9fa2252ea1e256a, type: 3}
+  - {fileID: 9050669408464298074, guid: c9571a64c4b54504abf2922dae69fbd1, type: 3}
